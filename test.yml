@@ -5,4 +5,4 @@
            - name: create a user
              user:
                      name: ragnar
-                     status: present
+                     state: present
